@@ -5,4 +5,6 @@
 </p>
 
 ---
-Se recibe una interfaz gráfica de usuario de java swing de la que se espera se realice la implementación back-end
+Se recibe una interfaz gráfica de usuario de java swing de la que se espera se realice la implementación back-end haciendo uso de bases de datos relacionales, 
+JPA y spring boot.
+Este chalenge hace parte de la formacion Oracle ONE con Alura Latam.
